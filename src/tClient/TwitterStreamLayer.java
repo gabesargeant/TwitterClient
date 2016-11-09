@@ -9,7 +9,7 @@ import java.io.InputStream;
 import java.util.Properties;
 
 /**
- * Created by voltron on 15/10/16.
+ * Created by G.Sargeat on 15/10/16.
  */
 public class TwitterStreamLayer {
 

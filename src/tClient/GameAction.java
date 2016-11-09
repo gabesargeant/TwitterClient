@@ -5,7 +5,7 @@ import org.pmw.tinylog.Logger;
 import java.util.Random;
 
 /**
- * Created by voltron on 27/10/16.
+ * Created by GSargeant on 27/10/16.
  */
 public class GameAction implements Runnable {
 

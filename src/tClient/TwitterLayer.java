@@ -10,7 +10,7 @@ import java.util.Properties;
 
 
 /**
- * Created by voltron on 11/10/16.
+ * Created by G.sargeant on 11/10/16.
  */
 public class TwitterLayer {
     Properties prop = new Properties();
