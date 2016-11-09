@@ -1,0 +1,4 @@
+#ignore properties files that have passwords in them.
+twitter4j.properties
+dataInterface.properties
+out/

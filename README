@@ -1,0 +1,20 @@
+Hoi hoi, 
+
+If your reading this, any terrible anit-patterns for heinous coding styles are merely me 
+trying to deponstrate not what to do :p
+
+This a twitter client based off the Twitter4j libraries and some mysql features. 
+
+See twitter4j.org for more info on that component.
+
+Read rules.html to pick up the method of gameplay.
+
+This 'app'  was made mostly to have a look at the spatial features that mysql 5.7 offer. 
+At the time of this being commited I had this app running on AWS ec2 micro listening againts
+a username for updates. 
+
+Testing has been done with a mock location service that provided gps coords without me moving 
+away from my desk.
+
+JavaFX, I had initally build a gui app to mock data into the database and to ping twitter, 
+This gui got cut back as the application took shape.
